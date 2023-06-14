@@ -29,9 +29,13 @@ git clone https://github.com/your-username/iot-home-automation.git
 Use voice commands to control appliances by stating the action and the appliance. For example:
 
 > "Turn on the lights"
+
 > "Turn off the fan"
+
 > "Open the door"
+
 > "Close the garage"
+
 Press the manual buttons to switch devices on/off or open/close doors manually.
 
 Monitor the temperature and humidity readings displayed in the application.
