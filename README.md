@@ -21,6 +21,7 @@ Internet connection
 
 <h3>Installation</h3>
 Clone this repository to your Raspberry Pi:
+
 ```bash
 git clone https://github.com/your-username/iot-home-automation.git
 ```
